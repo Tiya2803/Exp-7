@@ -235,6 +235,21 @@ int main()
 }
 ```
 
+# Output:
+
+a.<BR>![image](https://github.com/user-attachments/assets/a3e5ad8c-c35f-4c4f-870f-0bf4c06f000f)
+
+b.<br>![image](https://github.com/user-attachments/assets/aff92238-19b1-4fee-a117-c384b77cdc6d)
+
+c.<br>![image](https://github.com/user-attachments/assets/680bb4ed-3567-419b-aa81-cf01a4d7118e)
+
+d.<br>![image](https://github.com/user-attachments/assets/40498290-390e-4efd-95c9-3bbf4f7d0f8b)
+
+e.<br>![image](https://github.com/user-attachments/assets/634f8fc6-05f5-4893-b2a9-d3227d458a82)
+
+f.<br>![image](https://github.com/user-attachments/assets/9cf8b90c-e0ec-4f15-aec4-f43fca77cd98)
+
+
 # Conclusion:
 
 → We learnt the use case of arrays in C++.
